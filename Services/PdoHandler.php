@@ -2,7 +2,7 @@
 
 namespace Module\DatabaseModule\Services;
 
-use Module\CoreModule\BaseClass\Singleton;
+use Alzundaz\NitroPHP\BaseClass\Singleton;
 
 class PdoHandler extends Singleton
 {
